@@ -11,6 +11,7 @@
 		5A099DA127298EBF00EF91EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A099DA027298EBF00EF91EC /* ContentView.swift */; };
 		5A099DA327298EC100EF91EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A099DA227298EC100EF91EC /* Assets.xcassets */; };
 		5A099DA627298EC100EF91EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A099DA527298EC100EF91EC /* Preview Assets.xcassets */; };
+		5ABD68D2272C3DD300F52EBF /* ExplicitAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABD68D1272C3DD300F52EBF /* ExplicitAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5A099DA027298EBF00EF91EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5A099DA227298EC100EF91EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A099DA527298EC100EF91EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5ABD68D1272C3DD300F52EBF /* ExplicitAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5A099D9E27298EBF00EF91EC /* AnimationApp.swift */,
 				5A099DA027298EBF00EF91EC /* ContentView.swift */,
+				5ABD68D1272C3DD300F52EBF /* ExplicitAnimation.swift */,
 				5A099DA227298EC100EF91EC /* Assets.xcassets */,
 				5A099DA427298EC100EF91EC /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				5A099DA127298EBF00EF91EC /* ContentView.swift in Sources */,
 				5A099D9F27298EBF00EF91EC /* AnimationApp.swift in Sources */,
+				5ABD68D2272C3DD300F52EBF /* ExplicitAnimation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
