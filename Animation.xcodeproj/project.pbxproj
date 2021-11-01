@@ -15,6 +15,8 @@
 		5AE336CE272FF52800C33203 /* AnimationControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE336CD272FF52800C33203 /* AnimationControl.swift */; };
 		5AE336D0272FFA7D00C33203 /* GestureAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE336CF272FFA7D00C33203 /* GestureAnimation.swift */; };
 		5AE336D2272FFE4400C33203 /* HelloSwiftFun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE336D1272FFE4400C33203 /* HelloSwiftFun.swift */; };
+		5AE336D427300A0800C33203 /* ShowAndHideTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE336D327300A0800C33203 /* ShowAndHideTransition.swift */; };
+		5AE336D627300C8000C33203 /* CustomTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE336D527300C8000C33203 /* CustomTransition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		5AE336CD272FF52800C33203 /* AnimationControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationControl.swift; sourceTree = "<group>"; };
 		5AE336CF272FFA7D00C33203 /* GestureAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureAnimation.swift; sourceTree = "<group>"; };
 		5AE336D1272FFE4400C33203 /* HelloSwiftFun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloSwiftFun.swift; sourceTree = "<group>"; };
+		5AE336D327300A0800C33203 /* ShowAndHideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowAndHideTransition.swift; sourceTree = "<group>"; };
+		5AE336D527300C8000C33203 /* CustomTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTransition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,8 @@
 				5AE336CD272FF52800C33203 /* AnimationControl.swift */,
 				5AE336CF272FFA7D00C33203 /* GestureAnimation.swift */,
 				5AE336D1272FFE4400C33203 /* HelloSwiftFun.swift */,
+				5AE336D327300A0800C33203 /* ShowAndHideTransition.swift */,
+				5AE336D527300C8000C33203 /* CustomTransition.swift */,
 				5A099DA227298EC100EF91EC /* Assets.xcassets */,
 				5A099DA427298EC100EF91EC /* Preview Content */,
 			);
@@ -154,7 +160,9 @@
 				5AE336D0272FFA7D00C33203 /* GestureAnimation.swift in Sources */,
 				5A099D9F27298EBF00EF91EC /* AnimationApp.swift in Sources */,
 				5AE336CE272FF52800C33203 /* AnimationControl.swift in Sources */,
+				5AE336D427300A0800C33203 /* ShowAndHideTransition.swift in Sources */,
 				5ABD68D2272C3DD300F52EBF /* ExplicitAnimation.swift in Sources */,
+				5AE336D627300C8000C33203 /* CustomTransition.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
